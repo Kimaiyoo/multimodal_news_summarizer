@@ -1,0 +1,8 @@
+feedparser
+newspaper3k
+Pillow
+requests
+langchain
+langchain-groq
+python-dotenv
+lxml_html_clean
