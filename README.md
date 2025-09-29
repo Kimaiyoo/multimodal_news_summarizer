@@ -22,3 +22,8 @@ pip install -r requirements.txt
 2. Run the notebook/script.
 3. Specify an RSS feed URL to fetch and summarize articles.You can find a list of RSS feeds [here](https://themeisle.com/blog/rss-feeds-list/#gref).
    
+## Sample Output
+
+Here’s an example of the news summarizer in action:
+
+![News Summarizer Demo](demo_output.png)
