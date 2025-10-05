@@ -6,3 +6,5 @@ langchain
 langchain-groq
 python-dotenv
 lxml_html_clean
+gradio
+torch
